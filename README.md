@@ -1,2 +1,2 @@
-# assignment3
-Assignment 3 base code
+# Assignment 3 base code
+Please read the handout carefully and follow the instructions to complete your assignment. 
